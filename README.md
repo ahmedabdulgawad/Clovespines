@@ -1,8 +1,8 @@
 # Clovespines
 
-#### Video Demo:  https://youtu.be/_IRHpRj0kmY
+## Video Demo:  https://youtu.be/_IRHpRj0kmY
 
-#### Description:
+### Description:
 This project is an OCR (Optical Character Recognition) pipeline designed to process PDF files and extract text from them. The pipeline leverages several powerful libraries including `pdf2image`, `PyPDF2`, `tqdm`, `Pillow`, `pytesseract`, `numpy`, and `opencv-python` to convert PDF pages to images, preprocess the images, and perform OCR to extract text. The extracted text is then saved to a text file for further use.
 
 ### Project Structure:
